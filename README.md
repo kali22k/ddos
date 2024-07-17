@@ -1,2 +1,2 @@
 # ddos
-Blddosattack.py
+ddosattack.py
