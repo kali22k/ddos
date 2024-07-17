@@ -10,7 +10,7 @@ ddosattack.py
 # api install python3
 # pip install requests colorama
 # pip install requests
-# git clone 
+# git clone https://github.com/kali22k/ddos.git
 # python ddosattack.py
 # لتثبيت على termux
 # pkg install python
